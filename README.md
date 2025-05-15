@@ -102,7 +102,7 @@ systemd-run --scope -p TasksMax=50 ./test-script.sh
 
 ---
 
-## 🛠️ `apply_forkbomb_protection.sh`
+## 🛠️ `forkbombProtection.sh`
 
 ### ✅ What it does:
 - Writes user-level `nproc` and `fsize` limits to `/etc/security/limits.d/forkbomb.conf`
@@ -112,8 +112,8 @@ systemd-run --scope -p TasksMax=50 ./test-script.sh
 
 ### 💡 Usage:
 ```bash
-chmod +x apply_forkbomb_protection.sh
-sudo ./apply_forkbomb_protection.sh
+chmod +x forkbombProtection.sh
+sudo ./forkbombProtection.sh
 ```
 
 ---
