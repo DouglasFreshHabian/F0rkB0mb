@@ -2,7 +2,10 @@
   <img src="https://github.com/DouglasFreshHabian/F0rkB0mb/blob/main/Graphics/Tux.png?raw=true" alt="My Image" width="400">
 </p>
 
-# 💣 detectForkBombs.sh
+<h1 align="center">
+💣 detectForkBombs.sh
+	</h1>
+
 A Bash script that scans user-specified scripts (or all `.sh` files in a directory) for **common fork bomb patterns**, including:
 
 * Recursive functions that call themselves
