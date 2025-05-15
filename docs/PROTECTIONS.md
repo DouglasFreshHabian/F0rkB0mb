@@ -1,8 +1,6 @@
-# Protect Yourself From Fork Bombs
-To **protect yourself from fork bombs** and other resource-exhausting attacks in Bash, 
-you'll want to **limit the system resources** that a user or script can consume. Here 
-are the key protections you should set up — especially `ulimit` settings — and other 
-important system-level defenses:
+# 💣 Protect Yourself From Fork Bombs
+
+### To **protect yourself from fork bombs** and other resource-exhausting attacks in Bash, you'll want to **limit the system resources** that a user or script can consume. Here are the key protections you should set up — especially `ulimit` settings — and other important system-level defenses:
 ---
 
 ## 🛡️  1. Set Process Limits with `ulimit`
