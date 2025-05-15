@@ -154,18 +154,17 @@ Feel free to open an issue or submit a pull request!
 
 ## 💖 Support This Project
 
-If BashBeats™ has helped you or your system, consider supporting the project!  
+If F0rkB0mb™ has helped you or your system, consider supporting the project!  
 Your contributions help fuel future updates, testing, and new features.
-
-☕ [Buy Me a Coffee](https://www.buymeacoffee.com/douglashabian)  
-💸 [Ko-fi](https://ko-fi.com/douglashabian)  
-🎁 [Sponsor on GitHub](https://github.com/sponsors/DouglasFreshHabian)
 
 Every bit of support is appreciated — thank you!
 
-### If you have not done so already, please head over to the channel and hit that subscribe button to show some support. Thank you!!!
 
-## 👍 [Stay Fresh](https://www.youtube.com/@DouglasHabian-tq5ck) 
+  <h2 align="center"> 
+  <a href="https://www.buymeacoffee.com/dfreshZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+
 
 <!-- Reach out to me if you are interested in collaboration or want to contract with me for any of the following:
 	Building Github Pages
