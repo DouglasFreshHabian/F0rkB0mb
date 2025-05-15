@@ -20,7 +20,7 @@ A Bash script that scans user-specified scripts (or all `.sh` files in a directo
 
 - [🔍 Understanding Fork Bombs and Detection Patterns](https://github.com/DouglasFreshHabian/F0rkB0mb/blob/main/docs/FORKBOMBS.md)
 - [🛡️ System-Wide Fork Bomb Protections](https://github.com/DouglasFreshHabian/F0rkB0mb/blob/main/docs/PROTECTIONS.md)
-- [🐧 Ubuntu-Specific Hardening Guide](https://github.com/DouglasFreshHabian/F0rkB0mb/blob/main/docs/UBUNTU_HARDENING.md))
+- [🐧 Ubuntu-Specific Hardening Guide](https://github.com/DouglasFreshHabian/F0rkB0mb/blob/main/docs/UBUNTU_HARDENING.md)
 
 ## 🧪 Example Usage
 ```bash
